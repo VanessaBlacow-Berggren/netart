@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+
+body {
+  margin: 30px auto;
+  max-width: 1000px;
+  font-family: "Oswald", sans-serif;
+  line-height: 1.5;
+  padding: 30px 20px;
+  text-align: center;
+  align-content: center;
+}
+
+h1 {
+  padding: 20px 0px 10px 0px;
+}
+
+Body {
+  background-image: url("../images/background.jpg");
+  background-repeat: repeat-y;
+}
+
+a {
+  color: #4B0082;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #4B0082;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #C71585;
+}
+
+/* Centers Images */
+
+img {
+    display: block;
+    margin: 0px auto;
+  }
+
+  /* When you put a period in front of a CSS decleration, it indicates you are creating a new class. We apply this to div elements to create different portfolio entries */
