@@ -47,13 +47,6 @@ a.class3:hover {
 
 /* Centers Images */
 
-.error {
-  padding: 5px;
-  margin: 0px auto;
-  background-image: url("images/error.gif");
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
-}
 
   .load {
     position:fixed;
