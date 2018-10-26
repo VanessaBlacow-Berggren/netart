@@ -29,6 +29,7 @@ a:visited {
 a:hover {
   color: #FFFFFF;
 }
+
 a.class2:link {
   color: #3E86FF
   text-decoration:none;
