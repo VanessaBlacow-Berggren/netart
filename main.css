@@ -30,21 +30,6 @@ a:hover {
   color: #FFFFFF;
 }
 
-li a {
-  color: #3E86FF
-  text-decoration:none;
-}
-
-li a:visited {
-  color: #3E86FF;
-  text-decoration: none;
-}
-
-li a:hover {
-  color: #3E86FF;
-  text-decoration: none;
-}
-
 a.class3 {
   color: #000000;
   text-decoration: none;
@@ -62,10 +47,13 @@ a.class3:hover {
 
 /* Centers Images */
 
-img {
-    display: block;
-    margin: 0px auto;
-  }
+.error {
+  padding: 5px;
+  margin: 0px auto;
+  background-image: url("images/error.gif");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
 
   .load {
     position:fixed;
